@@ -1,0 +1,19 @@
+
+
+
+dependencies:
+  
+  flutter_launcher_icons: ^0.7.5
+  
+
+
+  
+
+flutter_icons:
+  andriod: true
+  ios: true
+  image_path_andriod: "assests/launcher/bmi.jpg"
+  image_path_ios: "assests/launcher/bmi.jpg"
+  image_path: "assests/launcher/bmi.jpg"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assests/launcher/bmi.jpg"
